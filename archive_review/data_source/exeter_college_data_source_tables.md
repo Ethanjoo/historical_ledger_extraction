@@ -9,8 +9,7 @@
 | Time span | `1700-1900` | Long-run historical archive |
 | Number of PDF volumes | `193` | Based on local raw-source audit |
 | Total raw pages | `1,581` | Matches the repository's repeated reference to `1,581` enriched pages |
-| Multi-year volumes | `33` | Cross-year file labels present in raw corpus |
-| Missing raw years | `1874`, `1875`, `1887`, `1888`, `1890` | True raw-source gaps |
+| Missing raw years | `1874`, `1875`, `1887`, `1888`, `1890` | Limited raw-source gaps |
 | Typical early time convention | Accounting year | Often approximately `2 Nov. (t-1)` to `2 Nov. t` |
 | Typical later time convention | More mixed | Some nineteenth-century files retain accounting-year logic; late nineteenth-century samples look closer to year-end general accounts |
 | Page structure | Ledger-like columnar format | Dates or time markers on left, descriptions in center, monetary values on right |
@@ -22,8 +21,8 @@
 | --- | --- | --- | --- | --- |
 | Early 18th century | Accounting-year labeling centered on the ending year | Predominantly Latin or Latinized accounting forms with some English elements | Highly regular ledger-like list structure | Year labels should not be read as strict calendar years |
 | Late 18th century | Accounting-year logic still prominent; some cross-year volumes | Mixed Latinized headings and increasingly vernacular entries | Similar columnar structure with recurring headers and amounts | Extraction remains structurally feasible, but language coding should allow mixed cases |
-| Early 19th century | Mixed regime; accounting-year formulas sometimes move off page `1` | Strongly mixed, with growing English usage | Sectional account pages and more varied heading placement | Time interpretation may require checking later title pages, not just first pages |
-| Mid 19th century | Less uniform from first-page inspection alone | Predominantly English entries, with residual traditional forms | More sectional and report-like account pages | Page layout remains structured, but temporal conventions should not be inferred mechanically from file names alone |
+| Early 19th century | Mixed regime | Strongly mixed, with growing English usage | Sectional account pages and more varied heading placement | Time interpretation remains more complex than a simple calendar-year reading |
+| Mid 19th century | Less uniform | Predominantly English entries, with residual traditional forms | More sectional and report-like account pages | Page layout remains structured, but temporal conventions still require explicit treatment |
 | Late 19th century | Samples increasingly resemble year-end general accounts | Largely English headings and descriptions | General-account presentation with balance and revenue/payment sections | Later-period files may be more compatible with calendar-year interpretation, but this should still be verified case by case |
 
 ## Suggested Appendix Table
